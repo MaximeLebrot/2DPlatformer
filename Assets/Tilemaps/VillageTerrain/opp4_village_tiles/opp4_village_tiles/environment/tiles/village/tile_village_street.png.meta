@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: d32e068cb68e2fe4089011377321cb1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5095354501470608676
+    second: tile_village_street_0
+  - first:
+      213: -8947483136721212607
+    second: tile_village_street_1
+  - first:
+      213: -4460234059946155597
+    second: tile_village_street_2
+  - first:
+      213: -344907234125618559
+    second: tile_village_street_3
+  - first:
+      213: -1370884575414251833
+    second: tile_village_street_4
+  - first:
+      213: 2187311141991925321
+    second: tile_village_street_5
+  - first:
+      213: 8793668863624665597
+    second: tile_village_street_6
+  - first:
+      213: -4040754190205344233
+    second: tile_village_street_7
+  - first:
+      213: -3868908854950342037
+    second: tile_village_street_8
+  - first:
+      213: 4338547203148184348
+    second: tile_village_street_9
+  - first:
+      213: -2142212127705452461
+    second: tile_village_street_10
+  - first:
+      213: 3473821608168735037
+    second: tile_village_street_11
+  - first:
+      213: 4811197219705551729
+    second: tile_village_street_12
+  - first:
+      213: 7341156935998725734
+    second: tile_village_street_13
+  - first:
+      213: -1581814453221067521
+    second: tile_village_street_14
+  - first:
+      213: -6566442343793037255
+    second: tile_village_street_15
+  - first:
+      213: -3810967463143283579
+    second: tile_village_street_16
+  - first:
+      213: -8879079738440355205
+    second: tile_village_street_17
+  - first:
+      213: -6197197663008344933
+    second: tile_village_street_18
+  - first:
+      213: 5714799472521326748
+    second: tile_village_street_19
+  - first:
+      213: 7659802315620521775
+    second: tile_village_street_20
+  - first:
+      213: 8222527637905212333
+    second: tile_village_street_21
+  - first:
+      213: -6543494659054131594
+    second: tile_village_street_22
+  - first:
+      213: 3225697523123540590
+    second: tile_village_street_23
+  - first:
+      213: -1413563894176492166
+    second: tile_village_street_24
+  - first:
+      213: 6391306882575098387
+    second: tile_village_street_25
+  - first:
+      213: -9078767606196840047
+    second: tile_village_street_26
+  - first:
+      213: -6161303098142734808
+    second: tile_village_street_27
+  - first:
+      213: -1123134180155885607
+    second: tile_village_street_28
+  - first:
+      213: -6442672944687676183
+    second: tile_village_street_29
+  - first:
+      213: 6958970634441689501
+    second: tile_village_street_30
+  - first:
+      213: -5630131607630934720
+    second: tile_village_street_31
+  - first:
+      213: -2096464275654011670
+    second: tile_village_street_32
+  - first:
+      213: -7458624795537835784
+    second: tile_village_street_33
+  - first:
+      213: -1550993440626082488
+    second: tile_village_street_34
+  - first:
+      213: 310570044848871689
+    second: tile_village_street_35
+  - first:
+      213: -1112132577869386639
+    second: tile_village_street_36
+  - first:
+      213: -6443668738882946840
+    second: tile_village_street_37
+  - first:
+      213: -5319572178768083195
+    second: tile_village_street_38
+  - first:
+      213: 7830703964023838400
+    second: tile_village_street_39
+  - first:
+      213: -2819999247624272912
+    second: tile_village_street_40
+  - first:
+      213: -1760072891628994895
+    second: tile_village_street_41
+  - first:
+      213: 3557732712393582696
+    second: tile_village_street_42
+  - first:
+      213: 5074677002212812385
+    second: tile_village_street_43
+  - first:
+      213: 1517148929344810093
+    second: tile_village_street_44
+  - first:
+      213: -1944532366831098612
+    second: tile_village_street_45
+  - first:
+      213: 3879981909406062967
+    second: tile_village_street_46
+  - first:
+      213: 2575156754879180490
+    second: tile_village_street_47
+  - first:
+      213: -1212745276320533245
+    second: tile_village_street_48
+  - first:
+      213: -289366599209720338
+    second: tile_village_street_49
+  - first:
+      213: -840245815984447548
+    second: tile_village_street_50
+  - first:
+      213: -6476538078771542173
+    second: tile_village_street_51
+  - first:
+      213: 8134607280725674139
+    second: tile_village_street_52
+  - first:
+      213: -5112735372164728946
+    second: tile_village_street_53
+  - first:
+      213: 6182237373792377103
+    second: tile_village_street_54
+  - first:
+      213: -4255578366565962675
+    second: tile_village_street_55
+  - first:
+      213: 6303065386575738261
+    second: tile_village_street_56
+  - first:
+      213: -2514396042021457939
+    second: tile_village_street_57
+  - first:
+      213: 8753298099582562523
+    second: tile_village_street_58
+  - first:
+      213: 3660043199043887676
+    second: tile_village_street_59
+  - first:
+      213: -2865913936501003462
+    second: tile_village_street_60
+  - first:
+      213: 1170318709259061267
+    second: tile_village_street_61
+  - first:
+      213: -4868575425807703687
+    second: tile_village_street_62
+  - first:
+      213: 5754752769326119556
+    second: tile_village_street_63
+  - first:
+      213: 3776075537400268850
+    second: tile_village_street_64
+  - first:
+      213: 7469388729452553775
+    second: tile_village_street_65
+  - first:
+      213: 3044533506760959699
+    second: tile_village_street_66
+  - first:
+      213: 3600526300374562490
+    second: tile_village_street_67
+  - first:
+      213: 6438234135350345137
+    second: tile_village_street_68
+  - first:
+      213: 2766677764350283438
+    second: tile_village_street_69
+  - first:
+      213: -5393781017994654855
+    second: tile_village_street_70
+  - first:
+      213: -6314843473675061621
+    second: tile_village_street_71
+  - first:
+      213: 4227288069050154672
+    second: tile_village_street_72
+  - first:
+      213: 5889124350310605786
+    second: tile_village_street_73
+  - first:
+      213: 4515538444184786272
+    second: tile_village_street_74
+  - first:
+      213: 3843464402148303196
+    second: tile_village_street_75
+  - first:
+      213: 8902999412997282359
+    second: tile_village_street_76
+  - first:
+      213: 3684153889343253596
+    second: tile_village_street_77
+  - first:
+      213: 1033960100221402026
+    second: tile_village_street_78
+  - first:
+      213: -1572294893609859176
+    second: tile_village_street_79
+  - first:
+      213: -6320721032472619004
+    second: tile_village_street_80
+  - first:
+      213: 8079149999010373444
+    second: tile_village_street_81
+  - first:
+      213: 9002523139715615912
+    second: tile_village_street_82
+  - first:
+      213: -3745970014941819535
+    second: tile_village_street_83
+  - first:
+      213: -7180474085920034602
+    second: tile_village_street_84
+  - first:
+      213: 7398001930855965437
+    second: tile_village_street_85
+  - first:
+      213: 3261470253008882777
+    second: tile_village_street_86
+  - first:
+      213: 1095572990851495254
+    second: tile_village_street_87
+  - first:
+      213: 8897867454857967818
+    second: tile_village_street_88
+  - first:
+      213: 442536245561395330
+    second: tile_village_street_89
+  - first:
+      213: 4334207513299421956
+    second: tile_village_street_90
+  - first:
+      213: -44446652639650341
+    second: tile_village_street_91
+  - first:
+      213: 709715100208973214
+    second: tile_village_street_92
+  - first:
+      213: 7155415785639214475
+    second: tile_village_street_93
+  - first:
+      213: -6390734797308055567
+    second: tile_village_street_94
+  - first:
+      213: -9076476152403231348
+    second: tile_village_street_95
+  - first:
+      213: 1549440910503991122
+    second: tile_village_street_96
+  - first:
+      213: 6037470939922420341
+    second: tile_village_street_97
+  - first:
+      213: -4706138953271323348
+    second: tile_village_street_98
+  - first:
+      213: 6563037454825390567
+    second: tile_village_street_99
+  - first:
+      213: 1848661703163919427
+    second: tile_village_street_100
+  - first:
+      213: 723076039950700618
+    second: tile_village_street_101
+  - first:
+      213: 9009917565988148297
+    second: tile_village_street_102
+  - first:
+      213: 4053041699608517649
+    second: tile_village_street_103
+  - first:
+      213: -4165055975563691672
+    second: tile_village_street_104
+  - first:
+      213: 7716224250204816582
+    second: tile_village_street_105
+  - first:
+      213: 2245901647029280494
+    second: tile_village_street_106
+  - first:
+      213: 6439683141574435595
+    second: tile_village_street_107
+  - first:
+      213: 1981874877034969015
+    second: tile_village_street_108
+  - first:
+      213: 1114863869572731263
+    second: tile_village_street_109
+  - first:
+      213: 1839233668240412908
+    second: tile_village_street_110
+  - first:
+      213: -8663541397619771749
+    second: tile_village_street_111
+  - first:
+      213: 6994602953832467168
+    second: tile_village_street_112
+  - first:
+      213: 482708676373343947
+    second: tile_village_street_113
+  - first:
+      213: -7344292064358709089
+    second: tile_village_street_114
+  - first:
+      213: 5375466689859388786
+    second: tile_village_street_115
+  - first:
+      213: -5506241119341956426
+    second: tile_village_street_116
+  - first:
+      213: 3740771054760355301
+    second: tile_village_street_117
+  - first:
+      213: -5588099136647984463
+    second: tile_village_street_118
+  - first:
+      213: -39289744544289175
+    second: tile_village_street_119
+  - first:
+      213: 3437012970040679866
+    second: tile_village_street_120
+  - first:
+      213: -4425129404551475865
+    second: tile_village_street_121
+  - first:
+      213: -4309560126404848526
+    second: tile_village_street_122
+  - first:
+      213: 5143970954307124735
+    second: tile_village_street_123
+  - first:
+      213: -8135113991998917751
+    second: tile_village_street_124
+  - first:
+      213: -1385117601141477147
+    second: tile_village_street_125
+  - first:
+      213: 3170036111612105108
+    second: tile_village_street_126
+  - first:
+      213: -8290575203213292582
+    second: tile_village_street_127
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tile_village_street_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be22ee294a16fa940aab2e70c71a91d8
+      internalID: -5095354501470608676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db96bc206daeefd49b61e3533b3c0e0a
+      internalID: -8947483136721212607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996c01756e133ae4cb9a1af4d48063b4
+      internalID: -4460234059946155597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc57c4656efd8a4591a0a5b1d10dda4
+      internalID: -344907234125618559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e61a7c1c61f6f469445f912b8fb8c5
+      internalID: -1370884575414251833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0bfeb922d9f3d41b338db59aae3c2f
+      internalID: 2187311141991925321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83ea85980dc5e64488c829550d13c23
+      internalID: 8793668863624665597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05987f8f26c31e1459f1988602fe777c
+      internalID: -4040754190205344233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20275df56253d24fa8d222c2ace0868
+      internalID: -3868908854950342037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cfb556c5634a44b91a5a063e084ed7
+      internalID: 4338547203148184348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3d5d6cbcdce4b40842fb37e213784e
+      internalID: -2142212127705452461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073120af2e02a4c428b4d7b7ba6b3877
+      internalID: 3473821608168735037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e83a83941dc2941aa6b323a6fcbc31
+      internalID: 4811197219705551729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cd0a3504bdc0e4cb3e0c670f1928f0
+      internalID: 7341156935998725734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce67234a3db492d468f586cd29119a0b
+      internalID: -1581814453221067521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ce880585f145a4eac93cdfd2927f9c
+      internalID: -6566442343793037255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c3f22e46e74084a9fd714e635ca72c
+      internalID: -3810967463143283579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a716bea0759ce4d9057c21286e3848
+      internalID: -8879079738440355205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3fe89a98ec0214dae3883cc51bc32d
+      internalID: -6197197663008344933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd372f7d35434874f8fb385e9f044687
+      internalID: 5714799472521326748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c140916454772d4080f1f2fe8eda9ae
+      internalID: 7659802315620521775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_village_street_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3382b08026c5ddd42b47f1eab16ff707
+      internalID: 8222527637905212333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MaximeBuildsHere.unity
+    guid: 38bba4fdad4e5e749a82e147b7c6ae67
+  - enabled: 1
+    path: Assets/Scenes/MaximeBuildsHere2.unity
+    guid: 9a202c2486facac40ab3971852a7600d
+  - enabled: 1
+    path: Assets/Scenes/OskarBuildsHere.unity
+    guid: 11877aca67247984da80ff8be8187b38
+  - enabled: 1
+    path: Assets/Scenes/PolBuildsHere.unity
+    guid: 15bf1f64da1358944980005a1a1e8a2f
+  - enabled: 1
+    path: Assets/Scenes/TestSandbox.unity
+    guid: fb628857d27d6fd4db09172fe02b6816
+  m_configObjects: {}
