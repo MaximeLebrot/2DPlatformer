@@ -1,15 +1,16 @@
 2D Platformer
 
 Programming:
-Maxime Lebrot
+Maxime Lebrot,
 Pol Lozano Llorens
 
 Music:
-Maxime Lebrot
-Pol Lozano Llorens
+Maxime Lebrot,
+Aramis Lebrot,
+Pol Lozano Llorens,
 Oskar Blomqvist
 
 Design:
-Maxime Lebrot
-Pol Lozano Llorens
+Maxime Lebrot,
+Pol Lozano Llorens,
 Oskar Blomqvist
